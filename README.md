@@ -1,4 +1,4 @@
-<center> <img src="images/david_bujosa.gif" alt="Bujosa" style="width:100px;"/> </center>
+<center> <img src="images/david_bujosa.gif" alt="Bujosa" witdh="200" height="200"/> </center>
 
 > How’s it going? I hope everything is fine and that you are taking care of the covid 😷
 
