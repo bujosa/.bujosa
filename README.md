@@ -1,9 +1,12 @@
-
-
+<br />
+<br />
 <div align="center">
 <img src="images/david_bujosa.gif" alt="Bujosa" witdh="300" height="300"/>
+ <br>
+ <b>Bujosa Gif</b>
 </div>
-
+<br />
+<br />
 
 > How’s it going? I hope everything is fine and that you are taking care of the covid 😷
 
