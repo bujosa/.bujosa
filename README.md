@@ -1,3 +1,5 @@
+![Bujosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujosa&show_icons=true&theme=radical&count_private=true) 
+
 ### Hi there 👋
 
 This is Bujosa I'm from Dominican Republic 🇩🇴 and I love to solve problems and study new things. ⚡
@@ -28,8 +30,6 @@ This is Bujosa I'm from Dominican Republic 🇩🇴 and I love to solve problems
 🌱 Currently learning:
 - More services on GCP
 - Python for IA
-
-![Bujosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujosa&show_icons=true&theme=radical&count_private=true) 
 
 
 <!--
