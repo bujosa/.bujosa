@@ -1,12 +1,6 @@
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
- <img src="images/david_bujosa.gif" alt="Bujosa" witdh="200" height="200" class="center"/>
+
+ <img src="images/david_bujosa.gif" alt="Bujosa" witdh="200" height="200"/>
 
 > How’s it going? I hope everything is fine and that you are taking care of the covid 😷
 
