@@ -1,7 +1,9 @@
 
+
 <div align="center">
-<img src="images/david_bujosa.gif" alt="Bujosa" witdh="200" height="200"/>
+<img src="images/david_bujosa.gif" alt="Bujosa" witdh="300" height="300"/>
 </div>
+
 
 > How’s it going? I hope everything is fine and that you are taking care of the covid 😷
 
