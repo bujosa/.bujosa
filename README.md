@@ -2,10 +2,10 @@
 
 > How’s it going? I hope everything is fine and that you are taking care of the covid 😷
 
-> This is Bujosa I'm from Dominican Republic 🇩🇴 I love to solve problems and study new things. ⚡
+ This is Bujosa I'm from Dominican Republic 🇩🇴 I love to solve problems and study new things. ⚡
 
 
-> 👨‍💻 I do:
+👨‍💻 I do:
 - Backend development 👨🏾‍💻
 - JavaScript, TypeScript, Golang and everything related with a heavy preference for backend development.
 - Flutter ❤️ and Kubernetes ⚛️
