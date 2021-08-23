@@ -1,11 +1,11 @@
-### Hi there 👋
+<center> <img src="images/david_bujosa.gif" alt="Bujosa" style="width:300px;"/> </center>
 
-This is Bujosa I'm from Dominican Republic 🇩🇴 and I love to solve problems and study new things. ⚡
+> How’s it going? I hope everything is fine and that you are taking care of the covid 😷
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbujosa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbujosa/)
+> This is Bujosa I'm from Dominican Republic 🇩🇴 I love to solve problems and study new things. ⚡
 
-👨‍💻 I do:
+
+> 👨‍💻 I do:
 - Backend development 👨🏾‍💻
 - JavaScript, TypeScript, Golang and everything related with a heavy preference for backend development.
 - Flutter ❤️ and Kubernetes ⚛️
@@ -25,23 +25,13 @@ This is Bujosa I'm from Dominican Republic 🇩🇴 and I love to solve problems
 ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=googlecloud)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 
+🔭 I’m currently working on [Curbo](https://cars.curbo.co/?)
+
 🌱 Currently learning:
 - More services on GCP
 - Python for IA
 
 ![Bujosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujosa&show_icons=true&theme=radical&count_private=true) 
 
-<!--
-**bujosa/bujosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbujosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbujosa/)
