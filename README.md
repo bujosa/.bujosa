@@ -29,7 +29,7 @@ This is Bujosa I'm from Dominican Republic 🇩🇴 and I love to solve problems
 - More services on GCP
 - Python for IA
 
-![Bujosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujosa&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujosa&layout=compact&langs_count=8))](https://github.com/anuraghazra/github-readme-stats)
+![Bujosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujosa&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujosa&layout=compact&langs_count=3))](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
