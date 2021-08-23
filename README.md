@@ -29,6 +29,9 @@ This is Bujosa I'm from Dominican Republic 🇩🇴 and I love to solve problems
 - More services on GCP
 - Python for IA
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **bujosa/bujosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
