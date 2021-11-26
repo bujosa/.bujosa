@@ -35,8 +35,9 @@
 🔭 I’m currently working on [Curbo](https://cars.curbo.co/?)
 
 🌱 Currently learning:
-- More services on GCP
-- Python for IA
+- Graph for DB
+- Best programming practices 
+- Master on CLOUD
 
 ![Bujosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujosa&show_icons=true&theme=radical&count_private=true) 
 
