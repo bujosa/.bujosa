@@ -2,8 +2,6 @@
 <br />
 <div align="center">
 <img src="images/giphy.gif" alt="Bujosa" witdh="300" height="300"/>
- <br>
- <b>Bujosa Gif</b>
 </div>
 <br />
 <br />
