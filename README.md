@@ -1,7 +1,7 @@
 <br />
 <br />
 <div align="center">
-<img src="images/david_bujosa.gif" alt="Bujosa" witdh="300" height="300"/>
+<img src="images/giphy.gif" alt="Bujosa" witdh="300" height="300"/>
  <br>
  <b>Bujosa Gif</b>
 </div>
@@ -10,7 +10,7 @@
 
 > How’s it going? I hope everything is fine and that you are taking care of the covid 😷
 
- This is Bujosa I'm from Dominican Republic 🇩🇴 I love to solve problems and study new things. ⚡
+ This is Bujosa I'm from AnyWHERE 🇩🇴 I love to solve problems and study new things. ⚡
 
 
 👨‍💻 I do:
