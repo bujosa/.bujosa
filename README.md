@@ -15,8 +15,9 @@
 
 👨‍💻 I do:
 - Backend development 👨🏾‍💻
-- JavaScript, TypeScript, Golang and everything related with a heavy preference for backend development.
-- Flutter ❤️ and Kubernetes ⚛️
+- JavaScript, TypeScript, Golang and everything related with backend development.
+- Flutter ❤️
+- Kubernetes ⚛️
 - NestJS 😻
 
 ##### Technologies I use
