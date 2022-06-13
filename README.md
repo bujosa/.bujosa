@@ -6,8 +6,6 @@
 <br />
 <br />
 
-> How’s it going? I hope everything is fine and that you are taking care of the covid 😷
-
  This is Bujosa I'm from AnyWHERE 🇺🇸 I love to solve problems and study new things. ⚡
 
 
