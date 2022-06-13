@@ -1,7 +1,7 @@
 <br />
 <br />
 <div align="center">
-<img src="images/giphy.gif" alt="Bujosa" witdh="300" height="300"/>
+<img src="images/nope-anger.gif" alt="Bujosa" witdh="300" height="300"/>
 </div>
 <br />
 <br />
