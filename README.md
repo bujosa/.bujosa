@@ -1,5 +1,4 @@
 <br />
-<br />
 <div align="center">
 <img src="images/nope-anger.gif" alt="Bujosa" witdh="300" height="300"/>
 </div>
