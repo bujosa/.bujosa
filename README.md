@@ -33,9 +33,9 @@
 🔭 I’m currently working on [Curbo](https://cars.curbo.co/?)
 
 🌱 Currently learning:
-- Graph for DB
+- Solidity
 - Best programming practices 
-- Master on CLOUD
+- About Blockchain
 
 ![Bujosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujosa&show_icons=true&theme=radical&count_private=true) 
 
