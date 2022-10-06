@@ -6,4 +6,5 @@ My goals with go are to be able to use it for scripting and api development to s
 - Rest API using mongo as database.. [Click here](https://github.com/bujosa/Workin)
 - Go design patterns [Click Here](https://github.com/bujosa/Benetnasch)
 - Best Practices related with web development [Click Here](https://github.com/bujosa/Yamato-791197)
+- Practice with Mongo package [Click Here](https://github.com/bujosa/Alshain-Golang)
  
