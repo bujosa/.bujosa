@@ -10,10 +10,12 @@
 
 👨‍💻 I do:
 - Backend development 👨🏾‍💻
-- JavaScript, TypeScript, Golang and everything related with backend development.
+- JavaScript, TypeScript and everything related with backend development.
 - Flutter and Dart ❤️
 - Kubernetes ⚛️
 - NestJS 😻
+- Golang -> [Experiences with GO](./experiences/go.md)
+
 
 ##### Technologies I use
 
