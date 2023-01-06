@@ -31,7 +31,7 @@
 ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=googlecloud)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 
-🔭 I’m currently working on [Curbo](https://curbo.com/?)
+🔭 I’m currently working on [Curbo](https://curbo.com)
 
 🌱 Currently learning:
 - Solidity
