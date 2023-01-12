@@ -38,7 +38,5 @@
 - Best programming practices 
 - About Blockchain
 
-![Bujosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujosa&show_icons=true&theme=radical&count_private=true) 
-
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbujosa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbujosa/)
