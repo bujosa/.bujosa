@@ -3,8 +3,10 @@
   <img src="https://github.com/bujosa/bujosa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
- This is Bujosa I'm from AnyWHERE 🇺🇸 I love to solve problems and study new things. ⚡
-
+<h1 align="center">Hi there, I'm Bujosa  <img src="https://user-images.githubusercontent.com/39348045/212607502-d7960abd-66da-4060-b309-7a4f3737cc9f.gif"
+         height="45"
+         width="45" />
+</h1>
 
 👨‍💻 I do:
 - Backend development 👨🏾‍💻
