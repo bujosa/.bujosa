@@ -1,9 +1,7 @@
 <br />
-<div align="center">
-<img src="images/nope-anger.gif" alt="Bujosa" witdh="300" height="300"/>
-</div>
-<br />
-<br />
+<p align="center">
+  <img src="https://github.com/bujosa/bujosa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
  This is Bujosa I'm from AnyWHERE 🇺🇸 I love to solve problems and study new things. ⚡
 
