@@ -34,7 +34,7 @@
 🔭 I’m currently working on [Curbo](https://curbo.com)
 
 🌱 Currently learning:
-- Solidity
+- Solidity on [Alchemy](https://university.alchemy.com/)
 - Best programming practices 
 - About Blockchain
 
