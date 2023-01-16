@@ -38,5 +38,8 @@
 - Best programming practices 
 - About Blockchain
 
+
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbujosa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbujosa/)
+<img src="https://komarev.com/ghpvc/?username=bujosa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SiddheshKukade" />
