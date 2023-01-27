@@ -36,6 +36,7 @@
 🌱 Currently learning:
 - Solidity on [Alchemy](https://university.alchemy.com/)
 - Best programming practices 
+- Rust 
 - About Blockchain
 
 
