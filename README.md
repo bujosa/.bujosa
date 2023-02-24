@@ -18,7 +18,6 @@
 
 
 ##### Technologies I use
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Golang](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
@@ -35,10 +34,8 @@
 
 🌱 Currently learning:
 - Solidity on [Alchemy](https://university.alchemy.com/)
-- Best programming practices 
 - Rust 
 - About Blockchain
-
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbujosa@gmail.com)
