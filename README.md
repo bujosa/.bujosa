@@ -14,7 +14,7 @@
 - Flutter and Dart ❤️
 - Kubernetes ⚛️
 - NestJS 😻
-- Golang -> [Experiences with GO](./experiences/go.md)
+- Golang
 
 
 ##### Technologies I use
