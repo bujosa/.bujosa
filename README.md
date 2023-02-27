@@ -16,6 +16,7 @@
 - NestJS 😻
 - Golang
 
+🌐 Languages : English, Spanish
 
 ##### Technologies I use
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
