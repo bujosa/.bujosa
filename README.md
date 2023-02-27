@@ -18,7 +18,7 @@
 
 🌐 Languages : English, Spanish
 
-##### Technologies I use
+#### My stack and tools :
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Golang](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
