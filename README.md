@@ -47,7 +47,6 @@ English, Spanish
 ## 🌱 Currently learning:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"  title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-![dashboard_logo 75bc75d8](https://user-images.githubusercontent.com/39348045/221498699-eb769bbf-cdeb-4d1f-89e1-1eb626349213.svg)
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbujosa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbujosa/)
