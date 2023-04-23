@@ -29,12 +29,15 @@ English, Spanish
 
 ### Frontend
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  title="Angularjs" alt="Angularjs" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react" alt="react" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  title="Angularjs" alt="Angularjs" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react" alt="react" width="40" height="40"/>
 
 ### Devops
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
+
+### Databases
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 
 ## 🧑‍💼 Currently Working:
 
