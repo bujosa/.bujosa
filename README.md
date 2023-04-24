@@ -42,7 +42,7 @@ English, Spanish
 
 ## 🧑‍💼 Currently Working:
 
-[Curbo Technologies](https://curbo.com) doing maintenance and developing services
+[Curbo Technologies](https://curbo.com) I work as a Software Engineer at Curbo, where I am responsible for maintaining and improving the platform, working with the database, and ensuring that services function efficiently and reliably. This involves working closely with the development and operations teams, as well as other teams within the company, to identify issues, design solutions, and implement improvements to the platform. I am also responsible for ensuring the scalability and availability of the services to ensure an optimal experience for platform users.
 
 ## 🌱 Currently learning:
 
