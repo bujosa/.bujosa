@@ -5,10 +5,6 @@
 
 I'm a senior Backend developer and have good analytical skills. I am attentive to the smallest details and perform well in teamwork as well as individually. I like to learn new things that enhance my professional development. I am passionate about mobile development, backend, blockchain, and devops. However, I have also worked on several web projects, and this last one is the one I enjoyed the least.
 
-## 🌐 Languages
-
-English, Spanish
-
 ## 👨‍💻 Stack and tools
 
 ### Mobile
