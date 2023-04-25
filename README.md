@@ -1,14 +1,7 @@
-<br />
-<p align="center">
-  <img src="https://github.com/bujosa/bujosa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 <h1 align="center">Hi there, I'm Bujosa  <img src="https://user-images.githubusercontent.com/39348045/212607502-d7960abd-66da-4060-b309-7a4f3737cc9f.gif"
          height="45"
          width="45" />
 </h1>
-
-## 👨‍💻 About me:
 
 I'm a senior Backend developer and have good analytical skills. I am attentive to the smallest details and perform well in teamwork as well as individually. I like to learn new things that enhance my professional development. I am passionate about mobile development, backend, blockchain, and devops. However, I have also worked on several web projects, and this last one is the one I enjoyed the least.
 
@@ -50,4 +43,3 @@ English, Spanish
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbujosa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbujosa/)
-<img src="https://komarev.com/ghpvc/?username=bujosa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SiddheshKukade" />
