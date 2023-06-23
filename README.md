@@ -9,7 +9,7 @@ I'm a senior Backend developer and have good analytical skills. I am attentive t
 
 ### Mobile && Frontend
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/> | | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  title="Angularjs" alt="Angularjs" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react" alt="react" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/> | | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  title="Angularjs" alt="Angularjs" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
 
 ### Backend
 
@@ -35,7 +35,8 @@ I'm a senior Backend developer and have good analytical skills. I am attentive t
 
 ## 🌱 Currently learning:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"  title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"  title="Rust" alt="Rust" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react" alt="react" width="40" height="40"/>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbujosa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbujosa/)
