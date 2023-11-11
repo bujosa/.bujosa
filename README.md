@@ -1,1 +1,1 @@
-<img src="images/giphy.gif"/>
+<img src="images/rimuru.gif"/>
